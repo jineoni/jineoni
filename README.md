@@ -20,7 +20,7 @@ I'm a **student at Yonsei University** who enjoys tackling challenges and creati
 
 ### 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineoni&layout=compact&theme=default)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineoni&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineoni&show_icons=true&theme=default)](https://github.com/jineoni/github-readme-stats)
 
 ---
 
