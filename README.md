@@ -20,9 +20,9 @@ I'm a **student at Yonsei University** who enjoys tackling challenges and creati
 
 ### 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineoni&layout=compact&theme=default)  
-[![Jiyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineoni&show_icons=true&theme=default)](https://github.com/jineoni/github-readme-stats)
+[![Jiyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineoni&show_icons=true&theme=default)](https://github.com/Jiyoon/github-readme-stats)
 
 ---
 
 ### 🎓 Solved.ac Profile  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlswldbs)](https://solved.ac/tlswldbs/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Jiyoon)](https://solved.ac/tlswldbs/)  
