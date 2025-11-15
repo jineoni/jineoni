@@ -28,8 +28,7 @@ I enjoy solving real-world problems using data, building structured analyses, an
 ---
 
 ### 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineoni&layout=compact&theme=default)  
-![Jiyoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jineoni&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineoni&layout=compact&theme=default) 
 
 ---
 
