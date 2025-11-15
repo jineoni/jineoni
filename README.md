@@ -1,28 +1,37 @@
-## Hi there 👋  
-Welcome to my GitHub!  
+## Hi, I'm Jiyoon 👋  
+Welcome to my GitHub!
 
-I'm a **student at Yonsei University** who enjoys tackling challenges and creating user-centered projects that aim to improve daily experiences for others.
-
----
-
-### 🌟 What I'm Looking For  
-👯 **Collaborating on**:  
-- Data-driven projects that improve mobility and urban living.  
-- Real-world problem-solving using **data science** and **machine learning**.  
+I'm an undergraduate student in **Urban Engineering & Applied Statistics at Yonsei University**, currently exploring how **data science and mobility analytics** can improve the way people move through cities.  
+I enjoy solving real-world problems using data, building structured analyses, and designing user-centered solutions.
 
 ---
 
-### 📫 How to Reach Me  
+### 🌟 What I’m Interested In  
+🔍 **Data Science for Mobility**  
+- Travel behavior modeling, ETA/route prediction, demand forecasting  
+- Geospatial analysis and mobility system design  
+
+🧠 **Applied Machine Learning**  
+- Practical ML that supports decision-making  
+- Data pipelines, large-scale analysis, and experiment evaluation  
+
+🤝 **Looking to Collaborate On**  
+- Mobility-related data projects  
+- Data analysis / machine learning–driven problem solving  
+- Research-oriented projects in transportation or urban data  
+
+---
+
+### 📫 Contact  
 📧 **Email**: [jyoon.shin12@gmail.com](mailto:jyoon.shin12@gmail.com)  
-🌐 **Portfolio**: [Check Out My Portfolio](https://ultra-patch-a38.notion.site/Jiyoon-14db9faef2698014aff1e6a911c6d036?pvs=4)  
 
 ---
 
 ### 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineoni&layout=compact&theme=default)  
-[![Jiyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineoni&show_icons=true&theme=default)](https://github.com/jineoni/github-readme-stats)
+![Jiyoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jineoni&show_icons=true&theme=default)
 
 ---
 
-### 🎓 Solved.ac Profile  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlswldbs)](https://solved.ac/tlswldbs/)  
+### 🎓 Solved.ac  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlswldbs)](https://solved.ac/tlswldbs/)
