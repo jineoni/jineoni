@@ -27,10 +27,5 @@ I enjoy solving real-world problems using data, building structured analyses, an
 
 ---
 
-### 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineoni&layout=compact&theme=default) 
-
----
-
 ### 🎓 Solved.ac  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlswldbs)](https://solved.ac/tlswldbs/)
