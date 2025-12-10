@@ -23,7 +23,8 @@ I enjoy solving real-world problems using data, building structured analyses, an
 ---
 
 ### 📫 Contact  
-📧 **Email**: [jyoon.shin12@gmail.com](mailto:jyoon.shin12@gmail.com)  
+- **Email**: [jyoon.shin12@gmail.com](mailto:jyoon.shin12@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/jiyoon-shin-15b196299/)
 
 ---
 
