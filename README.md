@@ -25,8 +25,3 @@ I enjoy solving real-world problems using data, building structured analyses, an
 ### 📫 Contact  
 - **Email**: [jyoon.shin12@gmail.com](mailto:jyoon.shin12@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/jiyoon-shin-15b196299/)
-
----
-
-### 🎓 Solved.ac  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlswldbs)](https://solved.ac/tlswldbs/)
