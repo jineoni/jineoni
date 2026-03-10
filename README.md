@@ -1,27 +1,19 @@
-## Hi, I'm Jiyoon 👋  
-Welcome to my GitHub!
+## Hi, I'm Jiyoon 👋
 
-I'm an undergraduate student in **Urban Engineering & Applied Statistics at Yonsei University**, currently exploring how **data science and mobility analytics** can improve the way people move through cities.  
-I enjoy solving real-world problems using data, building structured analyses, and designing user-centered solutions.
+> Passionate about leveraging data to uncover actionable insights and drive meaningful change.
 
----
-
-### 🌟 What I’m Interested In  
-🔍 **Data Science for Mobility**  
-- Travel behavior modeling, ETA/route prediction, demand forecasting  
-- Geospatial analysis and mobility system design  
-
-🧠 **Applied Machine Learning**  
-- Practical ML that supports decision-making  
-- Data pipelines, large-scale analysis, and experiment evaluation  
-
-🤝 **Looking to Collaborate On**  
-- Mobility-related data projects  
-- Data analysis / machine learning–driven problem solving  
-- Research-oriented projects in transportation or urban data  
+With a background in **Urban Planning and Engineering & Applied Statistics** from Yonsei University, I use this space to share my code, document analytical workflows, and collaborate on data-driven projects. 
 
 ---
 
-### 📫 Contact  
-- **Email**: [jyoon.shin12@gmail.com](mailto:jyoon.shin12@gmail.com) 
-- [LinkedIn](https://www.linkedin.com/in/jiyoon-shin-15b196299/)
+### 🛠 Tech Stack
+- **Languages:** Python, R, SQL
+
+---
+
+### 📫 Let's Connect & Collaborate
+I'm always open to discussing data analysis, ML-driven problem solving, and research projects.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jyoon.shin12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiyoon-shin-15b196299/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-ten-lime-15.vercel.app/)
