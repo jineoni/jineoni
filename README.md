@@ -4,7 +4,7 @@
 
 With a background in **Urban Planning and Engineering & Applied Statistics** from Yonsei University, I use this space to share my code, document analytical workflows, and collaborate on data-driven projects. 
 
-### 🛠 Tech Stack
+### Tech Stack
 - **Languages:** Python, R, SQL, JavaScript
 - **Data Viz & BI:** Tableau, Looker, Superset
 - **Cloud & Tools:** GCP, Git
