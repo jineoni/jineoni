@@ -5,9 +5,11 @@
 With a background in **Urban Planning and Engineering & Applied Statistics** from Yonsei University, I use this space to share my code, document analytical workflows, and collaborate on data-driven projects. 
 
 ### 🛠 Tech Stack
-- **Languages:** Python, R, SQL
+- **Languages:** Python, R, SQL, JavaScript
+- **Data Viz & BI:** Tableau, Looker, Superset
+- **Cloud & Tools:** GCP, Git
 
-### 📫 Let's Connect & Collaborate
+### Let's Connect & Collaborate
 I'm always open to discussing data analysis, ML-driven problem solving, and research projects.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jyoon.shin12@gmail.com)
