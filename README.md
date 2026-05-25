@@ -1,8 +1,6 @@
 ## Hi, I'm Jiyoon 👋
 
-> Passionate about leveraging data to uncover actionable insights and drive meaningful change.
-
-With a background in **Urban Planning and Engineering & Applied Statistics** from Yonsei University, I use this space to share my code, document analytical workflows, and collaborate on data-driven projects. 
+I use this space to share my code, document analytical workflows, and collaborate on data-driven projects. 
 
 ### Tech Stack
 - **Languages:** Python, R, SQL, JavaScript
