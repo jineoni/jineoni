@@ -3,9 +3,9 @@
 I use this space to share my code, document analytical workflows, and collaborate on data-driven projects. 
 
 ### Tech Stack
-- **Languages:** Python, R, SQL, JavaScript
-- **Data Viz & BI:** Tableau, Looker, Superset
-- **Cloud & Tools:** GCP, Git
+- **Languages:** Python, SQL, R, Java
+- **Data & Platforms**: BigQuery, PostgreSQL, Airflow, GCP, AWS, Docker, Tableau, Git
+- **Statistics & ML**: Statistical Inference, Bayesian Modeling, Predictive Modeling, Time-Series Analysis, Transformers
 
 ### Let's Connect & Collaborate
 I'm always open to discussing data analysis, ML-driven problem solving, and research projects.
